@@ -1,4 +1,5 @@
-collection_template
-===================
+Head first design principles
+==============================
 
-template for collection repos
+Example projects using patterns in the book: head_first_design_principles
+
