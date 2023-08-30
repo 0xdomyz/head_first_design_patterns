@@ -1,5 +1,5 @@
-Head first design principles
+Head first design patterns
 ==============================
 
-Example projects using patterns in the book: head_first_design_principles
+Example projects using patterns in the book: Head first design patterns
 
