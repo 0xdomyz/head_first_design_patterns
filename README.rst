@@ -109,6 +109,7 @@ Design principles
 - Classes shuold be open for extension but closed for modification.
 
 - Depend upon abstractions. Do not depend upon concrete classes.
+  The dependency inversion principle.
 
 - Principle of least knowledge: talk only to your immediate friends.
 
