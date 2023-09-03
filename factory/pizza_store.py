@@ -107,5 +107,5 @@ def test():
 
 
 if __name__ == "__main__":
-    # python3 04_the_factory_pattern/main.py
+    # python3 pizza_store.py
     test()

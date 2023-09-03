@@ -136,7 +136,7 @@ class HomeTheaterFacade:
 
 
 if __name__ == "__main__":
-    # python3 07_the_adapter_and_facade_patterns/facade.py
+    # python3 home_theater.py
     amp = Amplifier()
     tuner = Tuner()
     player = StreamingPlayer()

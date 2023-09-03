@@ -61,5 +61,5 @@ def test():
 
 
 if __name__ == "__main__":
-    # python3 07_the_adapter_and_facade_patterns/adapter.py
+    # python3 turkey_adapter.py
     test()

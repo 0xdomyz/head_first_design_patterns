@@ -100,7 +100,7 @@ class Waitress:
 
 
 if __name__ == "__main__":
-    # python3 09_the_iterator_and_composite_patterns/main.py
+    # python3 iterate_2_menus.py
     pancake_house_menu = PancakeHouseMenu()
     diner_menu = DinerMenu()
     waitress = Waitress(pancake_house_menu, diner_menu)

@@ -157,7 +157,7 @@ class GumballMachine:
 
 
 if __name__ == "__main__":
-    # python3 10_the_state_pattern/main.py
+    # python3 gum_ball_machine.py
     gumballMachine = GumballMachine(5)
 
     print(gumballMachine)

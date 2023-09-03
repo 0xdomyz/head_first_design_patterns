@@ -1,4 +1,4 @@
-# python3 ./06_the_command_pattern/main.py
+# python3 remote_control.py
 
 from abc import ABC, abstractmethod
 

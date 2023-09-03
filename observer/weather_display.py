@@ -121,4 +121,4 @@ def test():
 if __name__ == "__main__":
     test()
 
-    # python3 02_the_observer_pattern/main.py
+    # python3 weather_display.py

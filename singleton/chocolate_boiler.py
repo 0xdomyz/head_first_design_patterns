@@ -62,5 +62,5 @@ def test():
 
 
 if __name__ == "__main__":
-    # python3 05_the_singleton_pattern/main.py
+    # python3 chocolate_boiler.py
     test()

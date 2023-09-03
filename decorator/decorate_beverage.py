@@ -1,4 +1,4 @@
-# python3 ./03_the_decorator_pattern/main.py
+# python3 decorate_beverage.py
 
 # beverages
 

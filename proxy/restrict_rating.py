@@ -1,4 +1,4 @@
-# python3 11_the_proxy_pattern/main.py
+# python3 restrict_rating.py
 
 
 class Person:
