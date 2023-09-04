@@ -83,25 +83,25 @@ class CheesePizza(Pizza):
 
 class PizzaIngredientFactory:
     def create_dough(self):
-        pass
+        raise NotImplementedError
 
     def create_sauce(self):
-        pass
+        raise NotImplementedError
 
     def create_cheese(self):
-        pass
+        raise NotImplementedError
 
     def create_veggies(self):
-        pass
+        raise NotImplementedError
 
     def create_pepperoni(self):
-        pass
+        raise NotImplementedError
 
     def create_clam(self):
-        pass
+        raise NotImplementedError
 
 
-class NYPizzaIngredientFactory:
+class NYPizzaIngredientFactory(PizzaIngredientFactory):
     def create_dough(self):
         return ThinCrustDough()
 
@@ -122,7 +122,7 @@ class NYPizzaIngredientFactory:
         return FreshClams()
 
 
-class ChicagoPizzaIngredientFactory:
+class ChicagoPizzaIngredientFactory(PizzaIngredientFactory):
     def create_dough(self):
         return ThickCrustDough()
 
